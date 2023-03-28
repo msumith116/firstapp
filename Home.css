@@ -1,0 +1,25 @@
+.flag{
+    display:flex;
+    margin:auto;
+    margin-top:200px;
+    justify-content: space-around;
+}
+.card{
+    width: 300px;
+}
+.c1{
+    margin-left:40px;
+}
+.c2{
+    margin-left:20px;
+}
+.c4{
+    margin-right:40px;
+}
+.c3{
+    margin-right:90px;
+}
+.cf{
+    width:300px;
+    height:150px;
+}

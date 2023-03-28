@@ -1,0 +1,34 @@
+.child{
+    padding-left:200px;
+    padding-right:400px;
+    margin-top:90px;
+}
+.lg{
+    padding:100px;
+}
+#lp{
+    background-image: url(https://etimg.etb2bimg.com/photo/95217315.cms);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+.line{
+    width:300px;
+    margin-left:45px;
+}
+.c{
+    margin-left:160px;
+    margin-top:20px;
+}
+.pass{
+    margin-top:10px;
+}
+.username
+{
+    margin-top:10px;
+}
+#head{
+    text-align: center;
+    font-size:40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

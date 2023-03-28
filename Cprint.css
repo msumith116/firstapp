@@ -1,0 +1,16 @@
+.par{
+    font-size:20px;
+    text-shadow:1px 1px black;
+}
+.car1{
+    border:none;
+    margin:80px;
+    padding:40px;
+    background-color: #fcd0b8;
+}
+.bt{
+    margin-left:580px;
+    padding:10px;
+    border:none;
+    border-radius:10px;
+}
